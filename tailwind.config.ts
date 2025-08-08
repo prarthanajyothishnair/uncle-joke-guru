@@ -68,6 +68,18 @@ export default {
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
 			},
+			backgroundImage: {
+				'gradient-kerala': 'var(--gradient-kerala)',
+				'gradient-coconut': 'var(--gradient-coconut)',
+				'gradient-tropical': 'var(--gradient-tropical)'
+			},
+			boxShadow: {
+				'kerala': 'var(--shadow-kerala)',
+				'warm': 'var(--shadow-warm)'
+			},
+			transitionTimingFunction: {
+				'kerala': 'var(--transition-kerala)'
+			},
 			keyframes: {
 				'accordion-down': {
 					from: {
@@ -84,11 +96,21 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				'bounce-gentle': {
+					'0%, 100%': { transform: 'translateY(0)' },
+					'50%': { transform: 'translateY(-8px)' }
+				},
+				'wiggle': {
+					'0%, 100%': { transform: 'rotate(-3deg)' },
+					'50%': { transform: 'rotate(3deg)' }
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'bounce-gentle': 'bounce-gentle 2s ease-in-out infinite',
+				'wiggle': 'wiggle 1s ease-in-out infinite'
 			}
 		}
 	},
