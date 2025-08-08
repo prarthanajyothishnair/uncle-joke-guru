@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-## Project info
 
-**URL**: https://lovable.dev/projects/e37e70d8-1017-4f2c-b10e-deee6f6bc8a3
+KERALA UNCLE JOKE DETECTOR
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## Basic Details
+### Team Name: Prarthana.Dilsha
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e37e70d8-1017-4f2c-b10e-deee6f6bc8a3) and start prompting.
+### Team Members
+- Team Lead: Prarthana J - Unity Women's College, Manjeri
+- Member 2: fathima Dilsha M P - Unity Women's College, Manjeri
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+### Project Description
+The Kerala Uncle Joke Detector is a lighthearted web app that “analyzes” your jokes and tells you if they have true Kerala uncle vibes — complete with coconut-flavored humor and playful verdicts. It’s totally useless, completely random, and 100% for laughs.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### The Problem (that doesn't exist)
+This web app “solves” the *completely imaginary* problem of people being unsure whether their joke qualifies as a **true Kerala Uncle joke** — because obviously, society cannot function without such critical classifications.
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### The Solution (that nobody asked for)
+We’re “solving” it by letting users paste their joke into the app, then instantly giving them a **random, overconfident verdict** — complete with emojis and Kerala-themed sass — so they can finally rest easy knowing whether their joke meets the legendary uncle standard.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Technical Details
+### Technologies/Components Used
+For Software:
+- HTML,CSS,JavaScript
+- HTML,CSS,JS version
+- VS Code, Base 44, Lovable ai
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+### Implementation
+For Software:
+# Installation
+nill
+# Run
+nill 
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+### Project Documentation
+For Software:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Screenshots:
+erala-Uncle-Joke-Detector-Screenshot.png
+https://drive.google.com/file/d/166GcAbdKd8MB6Wz8PCWUnsSAV3lXsXw1/view?usp=sharing
+The Kerala Uncle Joke Detector, a playful web app designed to analyze and classify jokes in the style of classic "uncle jokes" from Kerala culture. The interface invites users to type or paste their joke into a text box—for example, “Why did the coconut go to therapy? Because it had too many issues to crack!”—and then click the “Detect Uncle Joke” button. The app humorously claims to use “coconut wisdom” to scientifically verify the joke’s uncle-ness, blending local humor with a lighthearted design in a gradient background of green and orange hues.
 
-## What technologies are used for this project?
+Kerala-Uncle-Joke-Detector-Screenshot 2.png
+https://drive.google.com/file/d/1NxPvmAxNxyI1wBQLuqhpmNHurjlESJHl/view?usp=sharing
+The Kerala Uncle Joke Detector web application with a Malayalam joke entered in the text box. The user has typed “Devamme moorkkane anallo chavuttiyath!” which roughly translates to “Oh God, you kicked the fool, didn’t you!”—a typical style of humorous or scolding remark popular in Kerala’s uncle jokes. Below the input field, there are two buttons: Detect Uncle Joke to analyze the entered text, and Try Another to reset the form. The interface features a friendly green and orange gradient background and highlights the app’s promise to “scientifically verify your uncle jokes,” blending regional humor with a playful design.
 
-This project is built with:
+Kerala-Uncle-Joke-Detector-Screenshot 3.png
+https://drive.google.com/file/d/11CWDWPq49hRSswCsN_ejXGopYQqY6P8c/view?usp=sharing
+The Kerala Uncle Joke Detector home screen, a playful web app that checks if your joke is a classic Kerala “uncle joke.” The page features a colorful background, a text box to enter jokes, and a green Detect Uncle Joke button to start the analysis.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+### Project Demo
+# Video
+https://drive.google.com/file/d/1k2wtARr6zMGwzDMvhj_gooFMtetFt38R/view?usp=sharing
+"The video shows the Kerala Uncle Joke Detector web app after analyzing a Malayalam joke. The user entered “Devamme moorkkane anallo chavuttiyath!” and clicked Detect Uncle Joke. The app humorously identified it as a classic Kerala uncle joke, displaying the result: “Wah! This joke is as classic as coconut oil on hair!” along with a badge saying “100% Kerala Uncle Energy.”
 
-Simply open [Lovable](https://lovable.dev/projects/e37e70d8-1017-4f2c-b10e-deee6f6bc8a3) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Team Contributions
+- Prarthana J:Specific contributions done by this member was focused on the creative and design aspects. They wrote sample jokes and response messages, designed the visual layout, conducted testing with different jokes, and prepared the documentation and media assets.
+-Fathima Dilsha M P: Specific contributions done by this member was responsible for the core development of the project. They implemented the joke detection logic, built the user interface, and handled the overall functionality and deployment of the app.
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
