@@ -82,7 +82,7 @@ const JokeDetector = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            🥥 Kerala Uncle Joke Detector 🍌
+            🥥 Kerala Uncle Joke Detector 👨
           </h1>
           <p className="text-lg text-muted-foreground">
             The most scientific way to verify your uncle jokes! Powered by coconut wisdom.
